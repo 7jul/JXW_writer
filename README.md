@@ -6,4 +6,4 @@
 
 实测文字质量比较高，逻辑性也很强，可用。
 
-需要申请deepseek API-key，填入api.key文件中。
+需要申请deepseek API-key，在程序界面进行设置！
